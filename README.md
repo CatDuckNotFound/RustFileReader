@@ -7,4 +7,4 @@ Usage:
 cargo build
 
 --------------------
-cargo run file_lcoation
+cargo run file_location
