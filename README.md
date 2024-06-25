@@ -5,4 +5,6 @@ Cargo
 
 Usage: 
 cargo build
+
+--------------------
 cargo run file_lcoation
